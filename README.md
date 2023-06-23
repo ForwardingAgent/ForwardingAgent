@@ -4,8 +4,14 @@
 ![Photo](https://github.com/ForwardingAgent/ForwardingAgent/blob/main/FotoCV_1.jpeg)
 
 🔭 I’m currently looking for a job.
+
+:computer: Python, SQL, GitHub, Django, HTML, CSS
+
+
 🌱 Now I’m learning FAST Api, Docker.
-⚡ Fun fact: 
+
+
+⚡ Fun fact: I changed my 10 year career and country to achieve my dream
 
 
 📫 How to reach me: 
