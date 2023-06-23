@@ -5,9 +5,10 @@
 
 - 🔭 I’m currently looking for a job.
 - 🌱 Now I’m learning FAST Api, Docker.
-- 📫 How to reach me: 
 - ⚡ Fun fact:
 
 
-
+📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/npodkopaev/)
+[Facebook](https://www.facebook.com/nikolay.podkopaev)
+
