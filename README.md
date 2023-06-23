@@ -10,5 +10,4 @@
 
 
 
-Дока — это **добрая** энциклопедия для веб-разработчиков.
-Вы можете [LinkedIn](https://www.linkedin.com/in/npodkopaev/) в своём браузере.
+[LinkedIn](https://www.linkedin.com/in/npodkopaev/)
