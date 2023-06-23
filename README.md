@@ -1,7 +1,7 @@
 ### Hi there, I'm Podkopaev Nikolai 👋
 
 ## I,m Junior Python Developer
-![Photo](https://github.com/ForwardingAgent/ForwardingAgent/blob/main/FotoCV.jpg)
+![Photo](https://github.com/ForwardingAgent/ForwardingAgent/blob/main/FotoCV_1.jpeg)
 <!--
 **ForwardingAgent/ForwardingAgent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
