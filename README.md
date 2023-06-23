@@ -9,4 +9,4 @@
 - ⚡ Fun fact:
 
 
-![link] (https://www.linkedin.com/in/npodkopaev/)
+text [link] (https://www.linkedin.com/in/npodkopaev/)
