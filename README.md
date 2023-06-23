@@ -3,9 +3,9 @@
 ## I,m Junior Python Developer
 ![Photo](https://github.com/ForwardingAgent/ForwardingAgent/blob/main/FotoCV_1.jpeg)
 
-- 🔭 I’m currently looking for a job.
-- 🌱 Now I’m learning FAST Api, Docker.
-- ⚡ Fun fact:
+🔭 I’m currently looking for a job.
+🌱 Now I’m learning FAST Api, Docker.
+⚡ Fun fact: 
 
 
 📫 How to reach me: 
