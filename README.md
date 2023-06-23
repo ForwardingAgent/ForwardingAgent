@@ -7,4 +7,4 @@
 - 🌱 Now I’m learning FAST Api, Docker.
 - 📫 How to reach me: 
 - ⚡ Fun fact: 
-![linkedin] (https://www.linkedin.com/in/npodkopaev/)
+![link](https://www.linkedin.com/in/npodkopaev/)
