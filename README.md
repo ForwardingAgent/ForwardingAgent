@@ -9,4 +9,6 @@
 - ⚡ Fun fact:
 
 
-text [link] (https://www.linkedin.com/in/npodkopaev/)
+
+Дока — это **добрая** энциклопедия для веб-разработчиков.
+Вы можете [открыть её](https://doka.guide) в своём браузере.
