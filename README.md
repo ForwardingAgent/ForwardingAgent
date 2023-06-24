@@ -1,6 +1,6 @@
 ### Hi there, I'm Podkopaev Nikolai 👋
 
-## I,m Junior Python Developer
+## I'm Junior Python Developer
 ![Photo](https://github.com/ForwardingAgent/ForwardingAgent/blob/main/FotoCV_1.jpeg)
 
 🔭 I’m currently looking for a job.
