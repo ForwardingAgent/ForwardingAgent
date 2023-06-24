@@ -11,12 +11,20 @@
 🌱 Now I’m learning FAST Api, Docker.
 
 
-⚡ Fun fact: I changed my 10 year career and country to achieve my dream
+⚡ Fun fact: I changed my 10 years career and country to achieve my dream
 
 
 📫 How to reach me: 
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Facebook][Facebook-shield]][Facebook-url]
 
-[LinkedIn](https://www.linkedin.com/in/npodkopaev/)
-[Facebook](https://www.facebook.com/nikolay.podkopaev)
+
+
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/npodkopaev
+
+[Facebook-shield]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
+[Facebook-url]: https://www.facebook.com/nikolay.podkopaev
+
 
