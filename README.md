@@ -8,7 +8,7 @@
 :computer: My stack: Python, SQL, GitHub, Django, HTML, CSS
 
 
-🌱 Now I’m learning FAST Api, Docker.
+🌱 Now I’m learning FAST Api, AIOgram, Docker.
 
 
 ⚡ Fun fact: I changed my 10 years career and country to achieve my dream
