@@ -11,7 +11,7 @@
 🌱 Now I’m learning FAST Api, AIOgram, Docker.
 
 
-⚡ Fun fact: I changed my 10 years career and country to achieve my dream
+⚡ Fun fact: I changed my 11 years career and country to achieve my dream
 
 
 📫 How to reach me: 
