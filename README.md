@@ -5,7 +5,7 @@
 
 🔭 I’m currently looking for a job.
 
-:computer: My stack: Python, SQL, GitHub, Django, HTML, CSS
+:computer: My stack: Python, SQL, GitHub, Docker, Django, HTML, CSS
 
 
 🌱 Now I’m learning FAST Api, AIOgram, Docker.
