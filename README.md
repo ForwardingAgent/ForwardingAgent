@@ -5,7 +5,7 @@
 
 🔭 I’m currently looking for a job.
 
-:computer: My stack: Python, Django, Django REST Framework, REST API, Postman, Redis, Celery, SQL, PostgreSQL, GitHub, Docker, HTML, CSS
+:computer: My stack: Python, Django, Django REST Framework, REST API, Postman, Redis, Celery, SQL, PostgreSQL, CI/CD, GitHub, Docker, HTML, CSS
 
 
 🌱 Now I’m learning FAST Api and Telegram bots.
