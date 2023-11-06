@@ -8,7 +8,7 @@
 :computer: My stack: Python, Django, Django REST Framework, REST API, Postman, Redis, Celery, SQL, PostgreSQL, CI/CD, GitHub, Docker, HTML, CSS
 
 
-🌱 Now I’m learning FAST Api and Telegram bots.
+🌱 Now I’m learning Python asynchronous programming and Telegram bots.
 
 
 ⚡ Fun fact: I changed my 11 years career and country to achieve my dream
